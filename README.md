@@ -1,5 +1,24 @@
 # Getting Started with Create React App
 
+## Screenshots of my project
+![Screenshot (27)](https://user-images.githubusercontent.com/50594243/222565903-93cceaf2-c9e5-428e-956d-c639dc05ad58.png)
+
+![Screenshot (28)](https://user-images.githubusercontent.com/50594243/222565946-5d951c71-e9ae-4fc7-a75d-88d752826f1a.png)
+
+![Screenshot (29)](https://user-images.githubusercontent.com/50594243/222565963-b359efdf-94f5-47de-91fb-d126ebb0861c.png)
+
+![Screenshot (30)](https://user-images.githubusercontent.com/50594243/222565971-3e930393-50f8-4d8c-849b-ce06d8840727.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/50594243/222565980-080b949b-3850-4c5f-8a59-e055692e0b37.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/50594243/222565991-c3cd2359-c5d4-4a85-bcc3-7841ee2d0864.png)
+
+#Short Description About My Project
+
+This project was designed with the help of React Framework.It uses React-Redux.This app helps us to add,delete and update the status of each habit.It helps to monitor the status of different habits.Here (tick icon) marks for that date habit is completed,(cross-mark icon) denotes that habit wasnt done on that day and (minus-icon) denotes no status was updated for that day.Also react-toastify is used to add notifications to app.
+To start locally just clone the project and run npm start.(Npm must be installed already).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
