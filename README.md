@@ -13,7 +13,7 @@
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/50594243/222565991-c3cd2359-c5d4-4a85-bcc3-7841ee2d0864.png)
 
-#Short Description About My Project
+## Short Description About My Project
 
 This project was designed with the help of React Framework.It uses React-Redux.This app helps us to add,delete and update the status of each habit.It helps to monitor the status of different habits.Here (tick icon) marks for that date habit is completed,(cross-mark icon) denotes that habit wasnt done on that day and (minus-icon) denotes no status was updated for that day.Also react-toastify is used to add notifications to app.
 To start locally just clone the project and run npm start.(Npm must be installed already).
