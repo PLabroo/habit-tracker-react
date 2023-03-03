@@ -15,8 +15,8 @@
 
 ## Short Description About My Project
 
-This project was designed with the help of React Framework.It uses React-Redux.This app helps us to add,delete and update the status of each habit.It helps to monitor the status of different habits.Here (tick icon) marks for that date habit is completed,(cross-mark icon) denotes that habit wasnt done on that day and (minus-icon) denotes no status was updated for that day.Also react-toastify is used to add notifications to app.
-To start locally just clone the project and run npm start.(Npm must be installed already).
+This project was designed with the help of React Framework.It uses React-Redux.This app helps us to add,delete and update the status of each habit.It helps to monitor the status of different habits.Here (tick icon) denotes that date habit is completed,(cross-mark icon) denotes that habit wasnt done on that day and (minus-icon) denotes no status was updated for that day.Also react-toastify is used to add notifications to app.
+To run locally just clone the project and run npm start.(Npm must be installed already).
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
